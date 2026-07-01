@@ -47,9 +47,6 @@ cd bankist
 
 3. Run the application by opening `index.html` in your browser.
 
-## Screenshots
-
-Add screenshots of the homepage here.
 
 ## Future Improvements
 
@@ -63,7 +60,7 @@ Add screenshots of the homepage here.
 
 **Kalaiselvan K.**
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/K-dot07
 
 ## License
 
